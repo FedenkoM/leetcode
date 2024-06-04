@@ -39,6 +39,12 @@ class PalindromeNumberSolutionTest {
     @Test
     void testIsPalindrome6() {
         PalindromeNumberSolution palindromeNumberSolution = new PalindromeNumberSolution();
+        assertTrue(palindromeNumberSolution.isPalindrome2(121));
+    }
+
+    @Test
+    void testIsPalindrome7() {
+        PalindromeNumberSolution palindromeNumberSolution = new PalindromeNumberSolution();
         assertFalse(palindromeNumberSolution.isPalindrome2(1234));
     }
 

@@ -1,4 +1,4 @@
-package org.leetcode.problems.easy.TwoSum;
+package org.leetcode.problems.easy.twoSum;
 
 import org.junit.jupiter.api.Test;
 

@@ -12,6 +12,7 @@ public class PalindromeNumberSolution {
     }
 
     public boolean isPalindrome2(int x) {
+        int initialValue = x;
         if (x < 0 || (x % 10 == 0 && x != 0)) {
             return false;
         }
@@ -20,6 +21,6 @@ public class PalindromeNumberSolution {
             reverse = reverse * 10 + x % 10;
             x = x / 10;
         }
-        return x == reverse;
+        return initialValue == reverse;
     }
 }
