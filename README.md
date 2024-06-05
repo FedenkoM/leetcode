@@ -15,4 +15,6 @@
 | 27     | [Remove Element](./src/main/java/org/leetcode/problems/easy/removeElement/RemoveElementSolution.java)                                                       | Easy   :heavy_check_mark: |
 | 28     | [Find the Index of the First Occurrence in a String](./src/main/java/org/leetcode/problems/easy/firstOccurrence/FirstOccurrenceIndexSolution.java)          | Easy   :heavy_check_mark: |
 | 35     | [Search Insert Position](./src/main/java/org/leetcode/problems/easy/firstOccurrence/FirstOccurrenceIndexSolution.java)                                      | Easy   :heavy_check_mark: |
+| 58     | [Length of Last Word](./src/main/java/org/leetcode/problems/easy/lengthOfLastWord/LengthOfLastWordSolution.java)                                            | Easy   :heavy_check_mark: |
+| 66     | [Plus One](./src/main/java/org/leetcode/problems/easy/plusOne/PlusOne.java)                                                                                 | Easy   :heavy_check_mark: |
 
