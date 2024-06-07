@@ -17,4 +17,6 @@
 | 35     | [Search Insert Position](./src/main/java/org/leetcode/problems/easy/firstOccurrence/FirstOccurrenceIndexSolution.java)                                      | Easy   :heavy_check_mark: |
 | 58     | [Length of Last Word](./src/main/java/org/leetcode/problems/easy/lengthOfLastWord/LengthOfLastWordSolution.java)                                            | Easy   :heavy_check_mark: |
 | 66     | [Plus One](./src/main/java/org/leetcode/problems/easy/plusOne/PlusOne.java)                                                                                 | Easy   :heavy_check_mark: |
+| 67     | [Add Binary](./src/main/java/org/leetcode/problems/easy/addBinary/AddBinarySolution.java)                                                                   | Easy   :heavy_check_mark: |
+| 69     | [Sqrt](./src/main/java/org/leetcode/problems/easy/sqrt/SqrtSolution.java)                                                                                   | Easy   :heavy_check_mark: |
 

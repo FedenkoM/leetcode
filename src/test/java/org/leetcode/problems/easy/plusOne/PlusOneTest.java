@@ -22,4 +22,20 @@ class PlusOneTest {
         assertArrayEquals(new int[]{1,0}, result);
     }
 
+    @Test
+    void testPlusOne3() {
+        PlusOne plusOne = new PlusOne();
+        int[] nums = {9, 9, 9, 8, 9};
+        int[] result = plusOne.plusOne(nums);
+        assertArrayEquals(new int[]{9,9,9,9,0}, result);
+    }
+
+    @Test
+    void testPlusOne4() {
+        PlusOne plusOne = new PlusOne();
+        int[] nums = {9, 9, 9, 9, 9};
+        int[] result = plusOne.plusOne(nums);
+        assertArrayEquals(new int[]{1,0,0,0,0,0}, result);
+    }
+
 }
