@@ -19,4 +19,6 @@
 | 66     | [Plus One](./src/main/java/org/leetcode/problems/easy/plusOne/PlusOne.java)                                                                                 | Easy   :heavy_check_mark: |
 | 67     | [Add Binary](./src/main/java/org/leetcode/problems/easy/addBinary/AddBinarySolution.java)                                                                   | Easy   :heavy_check_mark: |
 | 69     | [Sqrt](./src/main/java/org/leetcode/problems/easy/sqrt/SqrtSolution.java)                                                                                   | Easy   :heavy_check_mark: |
+| 70     | [Climbing stairs](./src/main/java/org/leetcode/problems/easy/climbingStairs/ClimbingStairsSolution.java)                                                    | Easy   :heavy_check_mark: |
+| 83     | [Remove Duplicates from Sorted List](./src/main/java/org/leetcode/problems/easy/removeDuplicatesFromList/RemoveDuplicatesSolution.java)                     | Easy   :heavy_check_mark: |
 
